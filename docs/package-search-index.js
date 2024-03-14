@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.shradinx"},{"l":"me.shradinx.util"}];updateSearchResults();
