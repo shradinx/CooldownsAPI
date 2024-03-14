@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"me.shradinx.util","l":"Cooldown"},{"p":"me.shradinx","l":"CooldownsAPI"}];updateSearchResults();
